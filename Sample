@@ -3,5 +3,6 @@ public class Dummy{
 	{
 		System.out.println("Hello World!");
 		System.out.println("M A N O J !");
+		System.out.println("Boom!!!");
 	}
  }
